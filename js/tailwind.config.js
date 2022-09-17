@@ -13,6 +13,10 @@ tailwind.config = {
         bg1: "#F8F6FE",
         bg2: "#F3F3F3",
         tx1:"#737373",
+        tx2:"#6A4DF4",
+        tx3:"rgba(255, 255, 255, 1)",
+        tx4:"#D0D0D0",
+        tx5:"#7B7B7B",
       },
       maxWidth: {
         container: "1320px",
